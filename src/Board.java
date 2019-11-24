@@ -1,4 +1,4 @@
-import sun.misc.ExtensionDependency;
+package src;
 
 import javax.swing.*;
 import java.awt.*;
